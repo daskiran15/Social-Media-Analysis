@@ -15,6 +15,7 @@ This project analyzes social media engagement metrics using Python and Power BI.
 - `visualizations/tweets1.pdf`: Power BI dashboard for insights.
 
 ## How to Use
+
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/your_repository_name.git
+   git clone https://github.com/kdas8/Social-Media-Analysis.git
